@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mmodestas
 
-- 👀 During day, I am Oracle ERP consultant. During nigth, I am home automation enthusiast. Two years ago I started automating my house with Home Assistant and this became my hobby. I fell quite deeply to this rabit hole.
+- 👀 During day, I am Oracle ERP consultant. During nigth, I am home automation enthusiast. Two years ago I started automating my house with Home Assistant and this became my hobby.
 There are not that many options for open source, configurable and reasonable priced home automation gadgets so I started making them myself.
 
 - 🌱 I’m currently learning... a lot. Python, YAML, Programming microcontrolers with Arduino, designing custom PCB's for my projects, discovering 3D printing.. And everything else that is related to tikering my and my friends houses :). 
